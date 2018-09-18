@@ -1,9 +1,9 @@
 # Tesis ![Licencia](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-Este proyecto contiene los fuentes de la tesina de grado de Miguel Carbone y
+Este proyecto está basado en los fuentes de la [tesina](https://github.com/ncuesta/tesis)
+ de grado de Miguel Carbone y
 José Nahuel Cuesta Luengo, alumnos de la Facultad de Informática de la
-Universidad Nacional de La Plata, titulada *Rediseño de la nube de servicios de
-la UNLP*.
+Universidad Nacional de La Plata. Corresponde a la tesina de grado de Rosario Santa Marina, alumna de la UNLP, titulada *Adaptación de CodeCombat para la enseñanza de Python en la escuela secundaria*.
 
 Este proyecto puede utilizarse como base para otros tesinistas que estén
 interesados en realizar su informe documental con LaTeX, intentando facilitar el
