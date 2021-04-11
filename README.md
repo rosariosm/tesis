@@ -3,7 +3,7 @@
 Este proyecto está basado en los fuentes de la [tesina](https://github.com/ncuesta/tesis)
  de grado de Miguel Carbone y
 José Nahuel Cuesta Luengo, alumnos de la Facultad de Informática de la
-Universidad Nacional de La Plata. Corresponde a la tesina de grado de Rosario Santa Marina, alumna de la UNLP, titulada *Adaptación de CodeCombat para la enseñanza de Python en la escuela secundaria*.
+Universidad Nacional de La Plata. Corresponde a la tesina de grado de Julieta Rey y Rosario Santa Marina, alumnas de la UNLP, titulada *NutriBuddy*.
 
 Este proyecto puede utilizarse como base para otros tesinistas que estén
 interesados en realizar su informe documental con LaTeX, intentando facilitar el
