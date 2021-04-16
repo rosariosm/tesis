@@ -41,3 +41,11 @@ Se puede usar el `Makefile` de este directorio:
 ```console
 $ make
 ```
+
+# Buenas prácticas de Git
+
+- Mensajes de commit: `#idClickup mensaje`. De esta manera se asocia nuestro commit a la tarjeta de clickup. Por ejemplo: `#3h9d71 Added something`.
+
+- Nombre de PR: `#idClickup/Task name`. De esta manera se asocia nuestro PR a la tarjeta de clickup. Por ejemplo `#434zfz/Generate repo`
+
+
